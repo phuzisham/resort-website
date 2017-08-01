@@ -7,7 +7,7 @@ h1 {
   color: #AA7A11;
   font-weight: lighter;
   font-family: Garamond;
-  font-size: 48pt;
+  font-size: 6vw;
   margin-bottom: 5px;
 }
 
@@ -22,7 +22,8 @@ h2 {
   color: #AA7A11;
   font-weight: lighter;
   font-family: Garamond;
-  font-size: 28pt;
+  font-size: 3.4vw;
+  margin-bottom: 50px;
 }
 
 .linkImages {
@@ -35,6 +36,9 @@ h2 {
 
 h3 {
   text-align: center;
-  color: white;
+  color: #AA7A11;
   font-family: sans-serif;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  font-size: 2vw;
 }
