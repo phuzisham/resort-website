@@ -1,4 +1,27 @@
-.linkImages {
-  max-width: 90%;
-  display: inline-block;
+body {
+  background-color: #445B78;
+  color: #AA7A11;
+  font-family: Garamond;
+  text-align: center;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 6vw;
+  margin-bottom: 100px;
+}
+
+h3 {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  font-size: 3vw;
+}
+
+p {
+  margin-bottom: 80px;
+}
+
+img {
+  max-width: 600px;
+  border-radius: 50%;
 }
