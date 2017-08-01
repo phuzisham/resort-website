@@ -1,0 +1,16 @@
+body {
+  background-color: #445B78;
+  color: #AA7A11;
+  font-family: Garamond;
+}
+
+h1 {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 6vw;
+  margin-bottom: 50px;
+}
+
+ul {
+  font-size: 2vw;
+}
