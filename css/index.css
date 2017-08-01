@@ -1,0 +1,40 @@
+body {
+  background-color: #445B78;
+}
+
+h1 {
+  text-align: center;
+  color: #AA7A11;
+  font-weight: lighter;
+  font-family: Garamond;
+  font-size: 48pt;
+  margin-bottom: 5px;
+}
+
+#poolPic {
+  float: center;
+  max-width: 105%;
+  margin: -5px;
+}
+
+h2 {
+  text-align: center;
+  color: #AA7A11;
+  font-weight: lighter;
+  font-family: Garamond;
+  font-size: 28pt;
+}
+
+.linkImages {
+  margin: 5px;
+  width: 100%;
+  border-style: outset;
+  border-color: white;
+  border-radius: 50%;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
