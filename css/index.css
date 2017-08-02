@@ -1,14 +1,15 @@
 body {
   background-color: #445B78;
+  color: #AA7A11;
+  font-family: garamond;
+  text-align: center;
+  font-weight: lighter;
 }
 
 h1 {
-  text-align: center;
-  color: #AA7A11;
-  font-weight: lighter;
-  font-family: Garamond;
   font-size: 6vw;
   margin-bottom: 5px;
+  margin-top: 5px;
 }
 
 #poolPic {
@@ -18,10 +19,6 @@ h1 {
 }
 
 h2 {
-  text-align: center;
-  color: #AA7A11;
-  font-weight: lighter;
-  font-family: Garamond;
   font-size: 3.4vw;
   margin-bottom: 50px;
 }
@@ -29,15 +26,10 @@ h2 {
 .linkImages {
   margin: 5px;
   width: 100%;
-  border-style: outset;
-  border-color: white;
   border-radius: 50%;
 }
 
 h3 {
-  text-align: center;
-  color: #AA7A11;
-  font-family: sans-serif;
   margin-top: 5px;
   margin-bottom: 20px;
   font-size: 2vw;
